@@ -22,4 +22,4 @@ my_model2.h5                       : keras deep learning trained model which is 
 Gesture Recognizer.ipynb           : Jupyter Notebook
 App.py                             : Deployed application 
 
-Hope this project might help any viewer for further research and learning processes.
+Hope this project might help viewers for further research and learning processes.
